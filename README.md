@@ -1,1 +1,2 @@
 # metcoop-calibration
+Post processing of T2m using MEPS ensemble members and topographical variables  We postprocess T2m using the observed 2m temperature TA and the ensemble means and sds of T2m, forecast temperature at 2m and other forecast variables from MEPS. We also use topographical variables for the MEPS domain.  At the moment this repository contains the routines to extract spatiaor topological cariables in the MEPs domain
